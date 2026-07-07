@@ -8,6 +8,8 @@ https://quick-stay-full-stack-5fak.vercel.app/
 <img width="1686" height="792" alt="image" src="https://github.com/user-attachments/assets/e2a7eeb0-3abf-4fc2-8b8d-8c9535d97344" />
 <img width="1645" height="567" alt="image" src="https://github.com/user-attachments/assets/d70eb566-8222-4e69-9d15-1f2c5e740d7d" />
 <img width="1268" height="797" alt="image" src="https://github.com/user-attachments/assets/814ec34d-8058-473d-a230-93c9cf6573af" />
+<img width="1542" height="842" alt="image" src="https://github.com/user-attachments/assets/c11a7cf6-bdb6-43e8-ba2d-290b6e38821a" />
+
 
 
 ## ✨ Features & Technical Highlights
